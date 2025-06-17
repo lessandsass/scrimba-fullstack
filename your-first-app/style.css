@@ -51,7 +51,7 @@ body {
      /* 
     CHALLENGE: change the font to one you think is cool
     */
-    font-family: var(--simple-font);
+    font-family: var(--scary-font);
 }
 
 
@@ -65,9 +65,7 @@ body {
 
 
 .img {
-    /* 
     border-image: var(--sweets) 100;
-    */
 
 }
 
