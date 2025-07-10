@@ -1,8 +1,13 @@
-div {
+.main {
     margin-top: 10px;
 }
 
-input {
+.googleImg {
+    display: block;
+    width: 400px;
+}
+
+.searchBar {
     display: block;
     width: 400px;
 }
