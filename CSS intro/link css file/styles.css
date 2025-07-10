@@ -1,3 +1,7 @@
+* {
+    display: block;
+}
+
 input {
     width: 400px;
 }
