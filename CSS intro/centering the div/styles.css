@@ -1,6 +1,7 @@
 img {
     display: block;
     width: 200px;
-    ma
+    margin-right: auto;
+    margin-left: auto;
 }
 
