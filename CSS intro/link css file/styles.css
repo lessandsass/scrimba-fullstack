@@ -1,13 +1,14 @@
-* {
-    display: block;
+div {
+    margin-top: 10px;
 }
 
 input {
-    margin-top: 10px;
+    display: block;
     width: 400px;
 }
 
 img {
+    display: block;
     width: 300px;
 }
 
