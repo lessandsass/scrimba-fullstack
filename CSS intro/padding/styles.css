@@ -6,8 +6,10 @@
     margin-left: auto;
     margin-right: auto;
     
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 20px;
-    padding-right: 20px;
+    /*
+    Challenge:
+    Add padding to make our card look like
+    the provided design */
+    padding-top: 100px;
+    padding-right: 100px;
 }
