@@ -24,6 +24,7 @@ Challenge:
     padding: 20px;
     display: flex;
     justify-content: space-around;
+    text-align: center;
 }
 
 .dot-blue-border {
