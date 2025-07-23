@@ -19,8 +19,10 @@ body {
     justify-content: space-around;
     text-align: center;
     color: #2b2839;
-    background-color: #ddebf8;
-    border-bottom: 5px solid #d8cefe;
+    background-color: #FFECCC;
+    border-bottom: 5px solid #DB5461;
+    border-radius: 10px;
+    box-shadow: 5px 10px 10px #b9b9b9;
 }
 
 .dot-blue-border {
