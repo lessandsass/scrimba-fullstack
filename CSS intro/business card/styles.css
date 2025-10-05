@@ -12,14 +12,18 @@ body {
 }
 
 .card {
-    width: 400px;
-    margin: 0 auto;
     padding: 20px;
     display: flex;
     justify-content: space-around;
+
+    width: 400px;
+    margin: 0 auto;
+
     text-align: center;
+
     color: #2b2839;
     background-color: #FFECCC;
+    
     border-bottom: 5px solid #DB5461;
     border-radius: 10px;
     box-shadow: 5px 10px 10px #b9b9b9;
